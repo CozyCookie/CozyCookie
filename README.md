@@ -1,6 +1,6 @@
 #  Hi, I'm Milas
 
-I'm a young developer from Denmark who loves building things — especially games.
+I'm a young developer from Denmark who loves building things, especially games.
 
 ##  About Me
 
