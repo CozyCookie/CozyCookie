@@ -1,16 +1,28 @@
-## Hi there 👋
+#  Hi, I'm Milas
 
-<!--
-**CozyCookie/CozyCookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a young developer from Denmark who loves building things — especially games.
 
-Here are some ideas to get you started:
+##  About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🇩🇰 Based in Denmark
+*  I build whatever ideas come to mind
+*  If I think of it, I’ll probably make it and ship it
+*  Focused on learning by creating
+
+##  What I Do
+
+* 2D & 3D game development
+* Discord bots
+* Websites / homepages
+
+##  Tech I Use
+
+* Python
+* GDScript (Godot)
+
+##  Mindset
+
+I enjoy creating small, fun, and interactive projects.
+For me, it's all about experimenting, improving, and actually finishing what I start.
+
+
