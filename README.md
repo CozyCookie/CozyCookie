@@ -4,7 +4,6 @@ I'm a young developer from Denmark who loves building things, especially games.
 
 ##  About Me
 
-* 🇩🇰 Based in Denmark
 *  I build whatever ideas come to mind
 *  If I think of it, I’ll probably make it and ship it
 *  Focused on learning by creating
@@ -14,6 +13,7 @@ I'm a young developer from Denmark who loves building things, especially games.
 * 2D & 3D game development
 * Discord bots
 * Websites / homepages
+* Make rotating 3D square in 2D
 
 ##  Tech I Use
 
