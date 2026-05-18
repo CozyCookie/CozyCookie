@@ -19,7 +19,7 @@ I'm a young developer from Denmark who loves building things, especially games.
 
 * Python
 * GDScript (Godot)
-* Learning C++
+* C++
 
 ##  Mindset
 
